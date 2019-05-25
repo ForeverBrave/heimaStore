@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans>
+	<bean id="CategoryDao" class="com.hero.store.dao.daoimpl.CategoryDaoImpl"/>
+	<bean id="UserDao" class="com.hero.store.dao.daoimpl.UserDaoImpl"/>
+	<bean id="ProductDao" class="com.hero.store.dao.daoimpl.ProductDaoImpl"/>
+</beans>

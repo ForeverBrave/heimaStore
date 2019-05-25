@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans>
+	<bean id="CategoryDao" class="com.hero.store.dao.daoimpl.OracleCategoryDaoImpl"/>
+	<bean id="UserDao" class="com.hero.store.dao.daoimpl.OracleUserDaoImpl"/>
+	<bean id="ProductDao" class="com.hero.store.dao.daoimpl.OracleProductDaoImpl"/>
+</beans>
